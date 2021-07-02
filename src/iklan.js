@@ -1,6 +1,6 @@
-const iklan = () => { 
+const D70 = () => { 
 	return `           
-╔══✪〘 IKLAN 〙✪══
+╔══✪〘 D70 〙✪══
 ║
 ╠═══════════════════════════
 ╠➥ *LISTA DE ALUGUEL E CRIAR BOTS:*
@@ -10,9 +10,9 @@ const iklan = () => {
 ╠➥ *MERCADO PAGO, BOLETO,*
 ╠═══════════════════════════
 ╠➥ *VANTAGENS*
-╠➥ *wa.me/554792091566*
+╠➥ *wa.me/5511994194624
 ║
-╚═〘  CAUSS  〙
+╚═〘  Danilin  〙
 `
 }
 exports.iklan = iklan

@@ -1,11 +1,11 @@
 const help = (prefix) => {
 	return `
 <══════════════════════>
-      *CAUSS BOT*
+      *D70 nhe vida? *
  <══════════════════════>
 
 __█████████  ● ᏴϴͲ●ᎷᎬΝႮ●         
-__█▄█████▄█   *DONO*    : CAUSS
+__█▄█████▄█   *DONO*    : Danrosa
 __█▼▼▼▼▼█ 
 _██ᏴϴͲ Ꮩ3.8██▌ 
 __█▲▲▲▲▲█ 
@@ -15,9 +15,9 @@ ____██_____██
 ┌─────────❶.❷────────
 ║〘 INFORMAÇÕES 〙
 ║
-╠🐉 *CAUSS BOT* 
-╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗CAUSS (base dark) 
-╠🐉 *wa.me/+5547992091566*
+╠🐉 *DanRosa🤖* 
+╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗D70 (Danilin do hype😳) 
+╠🐉 *wa.me/5511964578978*
 ╠🐉 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ║
@@ -201,7 +201,7 @@ ____██_____██
 ║🐊 *${prefix}onich*
 ║🐊 *${prefix}beat1*
 ║🐊 *${prefix}glub*
-║🐊 *${prefix}causs*
+║🐊 *${prefix}D70*
 ║
 ╠══🐰〘 OUTROS /2 〙🐰══
 ║
@@ -222,22 +222,22 @@ ____██_____██
 ║🐊 *bv*
 ║🐊 *canta ai bot*
 ║🐊 *grita*
-║🐊 *causs*
+║🐊 *D70*
 ║🐊 *gemidao*
 ║🐊 *musica*
 ║
-╠══🐰〘 CAUSS NO CONTROLE 〙🐰══
+╠══🐰〘 D70 NO CONTROLE VIDAH〙🐰══
 ║
-║ *NOME: CAUSS*
-║ *INSTA: animexx_png*
-║ *WPP: wa.me/+5547992091566*
-║ *YOUTUBE: https://youtube.com/c/caussZ*
+║ *NOME: Danrosa*
+║ *INSTA: D70_maia*
+║ *WPP: wa.me/+5511994194624*
+║ *YOUTUBE: https://youtube.com/c/D70Z*
 ║
-║  *"base do lindo (DARK BOT 4.0)🐊🚩*
+║  *"base do lindo (Danilodominamhevida4.0)🐊🚩*
 ║  *"kiba não xereka"*
-║  *Número do dark: wa.me/+5522996215481
+║  *Número do dark: wa.me/+5511994194624
 ║
-╚═〘 CAUSS BOT 〙`
+╚═〘 Danilin_maia🦇 〙`
 }
 
 exports.help = help

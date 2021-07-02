@@ -9,7 +9,7 @@
 ## Clone esse projeto
 
 ```bash
-> git clone https://github.com/D70XZ/Danbot.git
+> git clone https://github.com/D70XZ/Danibot.git
 ```
 
 ## Instale o BOT:
@@ -20,8 +20,8 @@
 > pkg install ffmpeg
 > pkg install wget
 > pkg install nodejs
-> git clone https://github.com/D70XZ/Danbot.git
-> cd Danbot
+> git clone https://github.com/D70XZ/Danibot.git
+> cd Danibot
 > bash install.sh
 ```
 
