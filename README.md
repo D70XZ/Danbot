@@ -8,18 +8,18 @@
 
 ## Clone esse projeto
 
-```bash github.com/d70xz/danibot.git
+```bash https://github.com/D70XZ/Danbot.git
 ```
 
 ## Instale o BOT:
 
 ```bash
 > termux-setup-storage
-> pkg install git
+> https://github.com/D70XZ/Danbot/commit/9263234f0f05a315809386461464096a20a2f365 install git
 > pkg install ffmpeg
 > pkg install wget
 > pkg install nodejs
-> git clone github.com/d70xz/danibot.git
+> git clone https://github.com/D70XZ/Danbot.git
 > cd Danbot
 > bash install.sh
 ```
